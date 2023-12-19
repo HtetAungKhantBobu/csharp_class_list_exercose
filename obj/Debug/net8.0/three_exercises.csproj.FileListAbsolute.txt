@@ -1,0 +1,14 @@
+/Users/htetaungkhant/Desktop/teaching/c_sharp/console_class/three_exercises/bin/Debug/net8.0/three_exercises
+/Users/htetaungkhant/Desktop/teaching/c_sharp/console_class/three_exercises/bin/Debug/net8.0/three_exercises.deps.json
+/Users/htetaungkhant/Desktop/teaching/c_sharp/console_class/three_exercises/bin/Debug/net8.0/three_exercises.runtimeconfig.json
+/Users/htetaungkhant/Desktop/teaching/c_sharp/console_class/three_exercises/bin/Debug/net8.0/three_exercises.dll
+/Users/htetaungkhant/Desktop/teaching/c_sharp/console_class/three_exercises/bin/Debug/net8.0/three_exercises.pdb
+/Users/htetaungkhant/Desktop/teaching/c_sharp/console_class/three_exercises/obj/Debug/net8.0/three_exercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/htetaungkhant/Desktop/teaching/c_sharp/console_class/three_exercises/obj/Debug/net8.0/three_exercises.AssemblyInfoInputs.cache
+/Users/htetaungkhant/Desktop/teaching/c_sharp/console_class/three_exercises/obj/Debug/net8.0/three_exercises.AssemblyInfo.cs
+/Users/htetaungkhant/Desktop/teaching/c_sharp/console_class/three_exercises/obj/Debug/net8.0/three_exercises.csproj.CoreCompileInputs.cache
+/Users/htetaungkhant/Desktop/teaching/c_sharp/console_class/three_exercises/obj/Debug/net8.0/three_exercises.dll
+/Users/htetaungkhant/Desktop/teaching/c_sharp/console_class/three_exercises/obj/Debug/net8.0/refint/three_exercises.dll
+/Users/htetaungkhant/Desktop/teaching/c_sharp/console_class/three_exercises/obj/Debug/net8.0/three_exercises.pdb
+/Users/htetaungkhant/Desktop/teaching/c_sharp/console_class/three_exercises/obj/Debug/net8.0/three_exercises.genruntimeconfig.cache
+/Users/htetaungkhant/Desktop/teaching/c_sharp/console_class/three_exercises/obj/Debug/net8.0/ref/three_exercises.dll
